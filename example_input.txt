@@ -1,0 +1,4 @@
+turtle turtle@durp.com
+jon jon@durp.com
+thyrm thyrm@scarborough.com
+voice voice@everything.com
